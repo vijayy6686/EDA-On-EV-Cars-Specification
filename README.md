@@ -1,1 +1,2 @@
 # EDA-On-EV-Cars-Specification
+The raw EV data scraped from the website had missing values, messy text, and inconsistent formatting. I fixed this by filling missing model and numeric values, converting prices and numbers from text to clean numeric format, removing unwanted columns like “Unnamed: 0”, correcting inconsistent names, and dropping duplicates. After these steps, the dataset became clean, structured, and ready for proper analysis.
